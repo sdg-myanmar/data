@@ -46,7 +46,7 @@ inputs:
       SERIES: 'Series'
       REF_AREA|MM: ''
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD_MM.XML'
+    dsd: 'SDG_DSD_MM.XML'
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
