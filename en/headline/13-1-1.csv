@@ -1,7 +1,7 @@
 Year,Value,Series
-2015,218,CL_SERIES.VC_DSR_MORT
-2016,518,CL_SERIES.VC_DSR_MORT
-2017,554,CL_SERIES.VC_DSR_MORT
-2015,884157,CL_SERIES.VC_DSR_AFFCT
-2016,897069,CL_SERIES.VC_DSR_AFFCT
-2017,515153,CL_SERIES.VC_DSR_AFFCT
+2015,218,Number of deaths due to disaster
+2016,518,Number of deaths due to disaster
+2017,554,Number of deaths due to disaster
+2015,884157,Number of people affected by disaster
+2016,897069,Number of people affected by disaster
+2017,515153,Number of people affected by disaster
