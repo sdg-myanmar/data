@@ -12491,7 +12491,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
@@ -12512,7 +12512,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
