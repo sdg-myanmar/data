@@ -3121,6 +3121,16 @@
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
               <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
@@ -3139,6 +3149,16 @@
         </structure:Code>
         <structure:Code id="VC_DSR_MORT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.0).VC_DSR_MORT">
           <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -12466,12 +12486,17 @@
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of households affected by natural disasters</common:Name>
@@ -12487,7 +12512,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C010502</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
