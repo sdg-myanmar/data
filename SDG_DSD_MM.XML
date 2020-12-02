@@ -12466,12 +12466,17 @@
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of households affected by natural disasters</common:Name>
@@ -12482,12 +12487,17 @@
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of cases of natural disasters</common:Name>
