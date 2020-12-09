@@ -46,7 +46,7 @@ inputs:
       SERIES: 'Series'
       REF_AREA|MM: ''
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'MM-SDG-SDMX-V1-2.xml'
+    dsd: 'MM-SDG-SDMX-V1-2-1.xml'
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
@@ -79,7 +79,7 @@ translations:
   - class: TranslationInputYaml
     source: translations
   - class: TranslationInputSdmx
-    source: 'MM-SDG-SDMX-V1-2.xml'
+    source: 'MM-SDG-SDMX-V1-2-1.xml'
 
 # Reporting status extra fields
 # -----------------------------
