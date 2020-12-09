@@ -1,10 +1,10 @@
 Value,en,Disaggregation combinations using this value,Number of indicators
-CL_COMP_BREAKDOWN.HZT_CNFLCT,Hazard Type: Conflict,29,1
-CL_COMP_BREAKDOWN.HZT_EROSN_RVRBK,Hazard Type: Riverbank Erosion,39,1
-CL_COMP_BREAKDOWN.HZT_ERQAK,Hazard Type: Earthquake,14,1
-CL_COMP_BREAKDOWN.HZT_FIREX,Hazard Type: Fire,62,1
-CL_COMP_BREAKDOWN.HZT_FLOOD,Hazard Type: Flood,58,1
-CL_COMP_BREAKDOWN.HZT_LNDSL,Hazard Type: Landslide,48,1
-CL_COMP_BREAKDOWN.HZT_OTHER,Hazard Type: Other,50,1
-CL_COMP_BREAKDOWN.HZT_STORM,Hazard Type: Storm,59,1
-CL_COMP_BREAKDOWN.HZT_THDR_LGT_STROKE,Hazard Type: Thunder Lighting Stroke,37,1
+CL_COMP_BREAKDOWN.HZT_CNFLCT,Hazard Type: Conflict,87,3
+CL_COMP_BREAKDOWN.HZT_EROSN_RVRBK,Hazard Type: Riverbank Erosion,117,3
+CL_COMP_BREAKDOWN.HZT_ERQAK,Hazard Type: Earthquake,42,3
+CL_COMP_BREAKDOWN.HZT_FIREX,Hazard Type: Fire,186,3
+CL_COMP_BREAKDOWN.HZT_FLOOD,Hazard Type: Flood,174,3
+CL_COMP_BREAKDOWN.HZT_LNDSL,Hazard Type: Landslide,144,3
+CL_COMP_BREAKDOWN.HZT_OTHER,Hazard Type: Other,150,3
+CL_COMP_BREAKDOWN.HZT_STORM,Hazard Type: Storm,177,3
+CL_COMP_BREAKDOWN.HZT_THDR_LGT_STROKE,Hazard Type: Thunder Lighting Stroke,111,3

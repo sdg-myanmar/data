@@ -1,1 +1,13 @@
-Year,Value
+Year,Value,Series
+2015,658,"Number of cases of natural disasters  [1.5.1, 11.5.1, 13.1.1]"
+2016,1632,"Number of cases of natural disasters  [1.5.1, 11.5.1, 13.1.1]"
+2017,2511,"Number of cases of natural disasters  [1.5.1, 11.5.1, 13.1.1]"
+2015,218,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"
+2016,518,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"
+2017,554,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"
+2015,202128,"Number of households affected by natural disasters  [1.5.1, 11.5.1, 13.1.1]"
+2016,208801,"Number of households affected by natural disasters  [1.5.1, 11.5.1, 13.1.1]"
+2017,119352,"Number of households affected by natural disasters  [1.5.1, 11.5.1, 13.1.1]"
+2015,884157,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]"
+2016,897069,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]"
+2017,515153,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]"
