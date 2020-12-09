@@ -3464,8 +3464,19 @@
           <common:Name xml:lang="en">Proportion of total adult population with secure tenure rights to land who perceive their rights to land as secure [1.4.2]</common:Name>
           <common:Description xml:lang="en">Proportion of total adult population with secure tenure rights to land who perceive their rights to land as secure [1.4.2]</common:Description>
         </structure:Code>
+
         <structure:Code id="VC_DSR_MISS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_MISS">
           <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3488,8 +3499,22 @@
           <common:Name xml:lang="en">Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]</common:Name>
           <common:Description xml:lang="en">Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]</common:Description>
         </structure:Code>
+
+
+
+
         <structure:Code id="VC_DSR_AFFCT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_AFFCT">
           <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3512,9 +3537,22 @@
           <common:Name xml:lang="en">Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]</common:Name>
           <common:Description xml:lang="en">Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]</common:Description>
         </structure:Code>
+
         <structure:Code id="VC_DSR_MORT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_MORT">
           <common:Annotations>
-            <common:Annotation>
+
+              <common:Annotation>
+                <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+                <common:AnnotationType>Indicator</common:AnnotationType>
+                <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+              </common:Annotation>
+              <common:Annotation>
+                <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+                <common:AnnotationType>Indicator</common:AnnotationType>
+                <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+              </common:Annotation>
+
+              <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
               <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
@@ -3538,6 +3576,17 @@
         </structure:Code>
         <structure:Code id="VC_DSR_MTMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_MTMP">
           <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3565,6 +3614,17 @@
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
               <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
@@ -3586,6 +3646,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_DAFF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_DAFF">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3610,6 +3682,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_IJILN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_IJILN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3634,6 +3718,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_PDAN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_PDAN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3658,6 +3754,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_DDHN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_DDHN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3682,6 +3790,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_PDYN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_PDYN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3706,6 +3826,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_DYDN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_DYDN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3730,6 +3862,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_PDLN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_PDLN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -3754,6 +3898,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_DYHN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_DYHN">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -16382,6 +16538,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_HH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_HH">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
@@ -16406,6 +16574,18 @@
         </structure:Code>
         <structure:Code id="VC_DSR_N" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=MM-CSO-SDGs:CL_SERIES(1.2).VC_DSR_N">
           <common:Annotations>
+
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
+            </common:Annotation>
+            
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
